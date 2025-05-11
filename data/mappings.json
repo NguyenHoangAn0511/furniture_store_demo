@@ -1,0 +1,42 @@
+{
+  "category": {
+    "sofa": 0,
+    "table": 1,
+    "chair": 2,
+    "bed": 3,
+    "storage": 4,
+    "desk": 5
+  },
+  "material": {
+    "soft velvet": 0,
+    "leather": 1,
+    "eco-leather": 2,
+    "pet-friendly fabric": 3,
+    "cotton blend": 4,
+    "linen": 5,
+    "microfiber": 6,
+    "recycled polyester": 7
+  },
+  "color": {
+    "beige": 0,
+    "gray": 1,
+    "blue": 2,
+    "green": 3,
+    "brown": 4,
+    "white": 5,
+    "black": 6
+  },
+  "warranty_info": {
+    "1-year warranty": 0,
+    "2-year warranty": 1,
+    "3-year warranty": 2,
+    "5-year warranty": 3
+  },
+  "care_instructions": {
+    "Wipe with damp cloth": 0,
+    "Use fabric cleaner": 1,
+    "Vacuum regularly": 2,
+    "Machine-washable covers": 3,
+    "Leather conditioner monthly": 4
+  }
+}

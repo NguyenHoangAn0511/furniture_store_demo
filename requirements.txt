@@ -1,0 +1,16 @@
+# Web framework
+fastapi
+uvicorn[standard]
+
+# Gemini API (Google Generative AI)
+google-generativeai
+
+# For environment variables
+python-dotenv
+
+# Optional tools
+httpx  # for async HTTP requests if needed
+
+#utility
+faker
+streamlit
